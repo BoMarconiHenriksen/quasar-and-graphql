@@ -63,6 +63,6 @@ In ```appollo-client-config.js``` you can add Apollo Client configuration option
 
 In ``apollo-client-hooks.js``` you can add your custom code for processing before or after the client is initialized. For instance, you might want to add code for auhorization after the client in created.  
 ### The Flow of Data in GraphQL and Quasar
-![alt text](https://github.com/BoMarconiHenriksen/quasar-and-graphql/flow.png "Data Flow")  
+![alt text](https://github.com/BoMarconiHenriksen/quasar-and-graphql/blob/master/flow.png "Data Flow")  
 ### Initialize the Cache
 
