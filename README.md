@@ -61,7 +61,7 @@ This is where your GraphQL endpoint is added.
 ### The Folder in src quasar-app-extension-apollo  
 In ```appollo-client-config.js``` you can add Apollo Client configuration options.  
 
-In ``apollo-client-hooks.js``` you can add your custom code for processing before or after the client is initialized. For instance, you might want to add code for auhorization after the client in created.  
+In ```apollo-client-hooks.js``` you can add your custom code for processing before or after the client is initialized. For instance, you might want to add code for auhorization after the client in created.  
 ### The Flow of Data in GraphQL and Quasar
 ![alt text](https://github.com/BoMarconiHenriksen/quasar-and-graphql/blob/master/flow.png "Data Flow")  
 ### Initialize the Cache
